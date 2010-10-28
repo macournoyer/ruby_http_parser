@@ -1,3 +1,9 @@
+## UNMAINTAINED!
+
+I don't work on this anymore. See this awesome fork instead: http://github.com/tmm1/http_parser.rb/
+
+And have a nice day, please!
+
 # Ruby bindings to Ryan Dahl's http-parser
 
 Ruby bindings to http://github.com/ry/http-parser
